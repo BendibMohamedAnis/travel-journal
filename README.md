@@ -1,5 +1,5 @@
 # travel-journal
- Web Application using react to save notes of trips with pictures and informations related. 
+Travek journal is a Web Application using react to save notes of trips with pictures and informations related. 
 
 ## Showcase
 
