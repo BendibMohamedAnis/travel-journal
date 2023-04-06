@@ -1,4 +1,6 @@
-# travel-journal
+<h1 align="left" style="vertical-align: middle;"><img src="https://user-images.githubusercontent.com/46926963/230432008-4b1efa64-9501-407a-8f49-c0c0b7108424.png" width="50" height="50" alt="Logo" style="margin-right: 10px;vertical-align: middle;">Travel Journal</h1>
+
+
 Travel Journal is a web application that I created using React, which enables users to save their travel notes with pictures and relevant information. With the increasing number of travel enthusiasts around the world, this application is designed to help people keep track of their travel experiences and share them with others.
 
 With Travel Journal, users can create a new trip by adding details such as the trip location, date, and a brief description. Users can also add photos to their trip to capture the beautiful moments and memories they made during their travels. The application allows users to organize their trips by tagging them with relevant keywords, making it easier to search and filter through the saved trips.
