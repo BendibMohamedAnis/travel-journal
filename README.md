@@ -1,5 +1,11 @@
 # travel-journal
-Travek journal is a Web Application using react to save notes of trips with pictures and informations related. 
+Travel Journal is a web application that I created using React, which enables users to save their travel notes with pictures and relevant information. With the increasing number of travel enthusiasts around the world, this application is designed to help people keep track of their travel experiences and share them with others.
+
+With Travel Journal, users can create a new trip by adding details such as the trip location, date, and a brief description. Users can also add photos to their trip to capture the beautiful moments and memories they made during their travels. The application allows users to organize their trips by tagging them with relevant keywords, making it easier to search and filter through the saved trips.
+
+The user-friendly interface of the application allows users to easily navigate and interact with their saved trips. Users can view their saved trips, edit the details, and add new photos and notes anytime they want. The application also provides an option to share their trips with friends and family through various social media platforms.
+
+Overall, Travel Journal is a great tool for travel enthusiasts to record their experiences and share them with others. It provides an easy-to-use platform for users to document their travels, making it a perfect companion for any avid traveler.
 
 ## Showcase
 
